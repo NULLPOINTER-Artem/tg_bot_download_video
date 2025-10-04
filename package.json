@@ -1,0 +1,19 @@
+{
+  "name": "tg_youtube_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "rss-parser": "^3.13.0",
+    "telegraf": "^4.16.3",
+    "yt-dlp-exec": "^1.0.2"
+  }
+}
